@@ -1,17 +1,17 @@
 //import java.util.*;
 public class inheri {
-	
-	protected String myName = "dhayanandh";
-	
+
+	protected string myName = "dhayanandh";
+
 	}
 	class child extends inheri{
-		private String childString = "this is a child class";
-		
+		private string childString = "this is a child class";
 
-		public String getChildString() {
+
+		public string getChildString() {
 			return childString;
 		}
 
-		
-		
+
+
 }

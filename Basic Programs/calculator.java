@@ -7,7 +7,7 @@ public class calculator {
 		int first_number = kbd.nextInt();
 		System.out.print("Enter Second number: ");
 		int second_number = kbd.nextInt();
-		
+
 		System.out.println(" Enter one of the mentioned operators (+, -, *, /): ");
 		String symbols = kbd.next();
 //		if (symbols == "+"){

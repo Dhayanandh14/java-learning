@@ -1,0 +1,14 @@
+{
+  "java.project.sourcePaths": [
+    "stringClass",
+    "String",
+    "Oops/Polymorphism",
+    "Oops/Overloading",
+    "Oops/Interface",
+    "Oops/Inheritance",
+    "Oops/Encapsulation",
+    "Oops/Constructor",
+    "Basic Programs",
+    "Oops/Overriding"
+  ]
+}

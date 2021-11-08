@@ -1,13 +1,19 @@
-
 public class encap {
-	private int x = 10;
-//	public int get() {
-//		return x;
-//	}
-	public static void main(String[] args) {
-		encap obj  = new encap();
-		System.out.print(obj.x);
-
-	}
-
+  private int a;
+  private int b;
+  public int getA(){
+    return a;
+  }
+  public int getB(){
+    return b;
+  }
+  public void setA(int x){
+    a =x;
+  }
+  public void setB(int y){
+    b =y;
+  }
+  public void print(){
+    System.out.print(a+" "+b);
+  }
 }

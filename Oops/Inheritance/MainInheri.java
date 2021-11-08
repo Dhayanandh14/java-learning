@@ -1,9 +1,11 @@
 
 public class MainInheri {
 
-	public static void main(String[] args) {
-
+	public static void main(string[] args) {
+		inheri ob = new inheri();
 		child obj = new child();
-		System.out.print(obj.getChildString());
+
+		System.out.print(ob.myName);
+		// System.out.print(obj.getChildString());
 	}
 }

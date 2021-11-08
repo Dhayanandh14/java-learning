@@ -25,7 +25,7 @@ class ThreadJoining extends Thread
 		}
 	}
 }
-public class helloworld {
+public class thread {
 		public static void main(String args[]) {
 			ThreadJoining t1 = new ThreadJoining();
 			t1.start();
