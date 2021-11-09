@@ -5,15 +5,15 @@ public class primeNumber {
   public static void main(String[] args) {
     Scanner kbd = new Scanner(System.in);
     int num = kbd.nextInt();
-     int i = 2;
+
     boolean flag = true;
-    while (i <= num/2) {
+   for(int i = 2; i<=num/2;i++){
       if (num % i == 0) {
         flag = false;
         break;
       }
 
-      ++i;
+      i++;
     }
 
     if (flag)
