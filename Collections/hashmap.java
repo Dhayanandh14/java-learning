@@ -1,10 +1,11 @@
 import java.util.HashMap;
 public class hashmap {
 	public static void main(String args[]) {
-		HashMap<String , String> jsonobject = new HashMap<String , String>();
-		jsonobject.put("Name", "Demo");
-		jsonobject.put("Place", "Chennai");
-		jsonobject.put("Team", "G");
-		System.out.print(jsonobject.get("Team"));
+		HashMap<String , String> hm = new HashMap<String , String>();
+		hm.put("Name", "Demo");
+		hm.put("Place", "Chennai");
+		hm.put("Team", "G");
+		System.out.print(hm.get("Team"));
+		System.out.print(hm);
 	}
 }

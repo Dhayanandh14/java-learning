@@ -8,8 +8,12 @@ public class linkedList {
 		animals.add("goat");
 		animals.addFirst("this is the first element of the linked list");
 		animals.addLast("this is the last element of the linked list");
+		System.out.println(animals);
+		System.out.println(animals.getFirst());
+		System.out.println(animals.getLast());
+		System.out.println(animals);
+		animals.removeLast();
 		System.out.print(animals);
-
 	}
 
 }

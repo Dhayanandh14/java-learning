@@ -3,12 +3,17 @@
     "stringClass",
     "String",
     "Oops/Polymorphism",
+    "Oops/Overriding",
     "Oops/Overloading",
     "Oops/Interface",
     "Oops/Inheritance",
     "Oops/Encapsulation",
     "Oops/Constructor",
+    "Oops/Abstract",
+    "Methods",
+    "Collections/Queue",
+    "Collections/List",
     "Basic Programs",
-    "Oops/Overriding"
+    "Collections"
   ]
 }
