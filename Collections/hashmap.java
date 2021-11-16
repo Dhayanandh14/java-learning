@@ -1,11 +1,11 @@
 import java.util.HashMap;
 public class hashmap {
 	public static void main(String args[]) {
-		HashMap<String , String> hm = new HashMap<String , String>();
-		hm.put("Name", "Demo");
-		hm.put("Place", "Chennai");
-		hm.put("Team", "G");
-		System.out.print(hm.get("Team"));
-		System.out.print(hm);
+		HashMap<String , String> hashmap_object = new HashMap<String , String>();
+		hashmap_object.put("Name", "Demo");
+		hashmap_object.put("Place", "Chennai");
+		hashmap_object.put("Team", "G");
+		System.out.print(hashmap_object.get("Team"));
+		System.out.print(hashmap_object);
 	}
 }

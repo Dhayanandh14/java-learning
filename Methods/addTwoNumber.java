@@ -1,5 +1,4 @@
-import java.io.*;
-class GFG {
+class addTwoNumber {
   int sum = 0;
 
   public static int addTwoInt(int a, int b){
