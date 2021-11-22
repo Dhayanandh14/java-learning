@@ -1,19 +1,22 @@
 {
   "java.project.sourcePaths": [
     "stringClass",
+    "TodoApp",
     "String",
     "Oops/Polymorphism",
     "Oops/Overriding",
     "Oops/Overloading",
     "Oops/Interface",
     "Oops/Inheritance",
+    "Oops/Exception Handling",
     "Oops/Encapsulation",
     "Oops/Constructor",
     "Oops/Abstract",
     "Methods",
     "Collections/Queue",
     "Collections/List",
+    "Collections",
     "Basic Programs",
-    "Collections"
+    "JDBC_Todo"
   ]
 }
